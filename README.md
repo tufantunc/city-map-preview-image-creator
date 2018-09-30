@@ -1,4 +1,4 @@
-# City Map Preview Image Creator
+# City Map Preview Image Creator [![Build status](https://ci.appveyor.com/api/projects/status/twn78ylcyr0uvnox?svg=true)](https://ci.appveyor.com/project/tufantunc/city-map-preview-image-creator) [![Dependency Status](https://img.shields.io/david/tufantunc/city-map-preview-image-creator.svg)](https://david-dm.org/tufantunc/city-map-preview-image-creator)
 > Bu örnek uygulama [Yandex Haritalar](https://tech.yandex.com.tr/maps/doc/jsapi/2.1/quick-start/index-docpage/)ı kullanarak şehir harita görünümü görselleri oluşturup kaydeder.
 
 ## Amacı
