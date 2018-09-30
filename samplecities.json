@@ -1,0 +1,20 @@
+{
+    "Cities": [
+        {
+            "name": "İstanbul",
+            "country": "Turkey"
+        },
+        {
+            "name": "London",
+            "country": "England"
+        },
+        {
+            "name": "Los Angeles",
+            "country": "USA"
+        },
+        {
+            "name": "Moskow",
+            "country": "Russia"
+        }
+    ]
+}

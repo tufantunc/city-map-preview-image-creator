@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`geoCodeHelper when called with right parameters, should return city geo code 1`] = `
+Object {
+  "city": "istanbul",
+  "country": "Turkey",
+  "language": "tr_TR",
+  "latitude": "41.008857",
+  "longitude": "28.96747",
+}
+`;
